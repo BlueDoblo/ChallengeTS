@@ -19,6 +19,9 @@ To ensure the robustness of the solution, I tested the app in different ways and
 About the bonus points I only develop the third point "Add a parameter to only crawl items in a specific condition (New, Pre-Owned, etc)." 
 This additional functionality adds flexibility to the solution and aligns with the challenge's objectives, and in the source code of the app you can change the parameters and get different results.
 
+# Conclusion
+In a next evolution of this app meabe it can has logic to detect some kind of error of network for example, if the app can't obtain the result of the web site probably it can has some logic to retry, or for example store the result in a db, etc, etc and more
+
 Thank you once again for this enriching experience.!!
 
 Have a nice day.!
