@@ -5,9 +5,9 @@ First of all, thanks a lot for your time and for the possibility to participate 
 
 The original requirement is [here](https://docs.google.com/document/d/11EcjCjwwhf24XdWk6CGSIpEeBc68UEA0gLi4-hqWw0M/edit)
 
-In this opportunity I found this challenge very interesting for me because I don't have previous experience working with crawling or scraping, so I need to learn about it, investigate, study and dive deep into this.
+In this opportunity I found this challenge very interesting for me because I don't have previous experience working with crawling or scraping, so I needed to learn about it, investigate, study and dive deep into this.
 
-In the same way, acttualy I am not coding daily so need to refresh my only neuron, jajaja.
+In the same way, actually I am not coding daily so needed to refresh my only neuron, jajaja.
 
 # Looking for Support
 I look for support on StackOverflow (I have 41 years old, so is very common for me, go to source of knowledge, jaja and obviosly ChatGPT).
