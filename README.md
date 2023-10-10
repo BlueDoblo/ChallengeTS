@@ -10,7 +10,7 @@ In this opportunity I found this challenge very interesting for me because I don
 In the same way, actually I am not coding daily so needed to refresh my only neuron, jajaja.
 
 # Looking for Support
-I look for support on StackOverflow (I have 41 years old, so is very common for me, go to source of knowledge, jaja and obviosly ChatGPT).
+I look for support on StackOverflow (I am 41 years old, so is very common for me, go to the source of knowledge, jaja and obviosly ChatGPT).
 
 # Tests
 To ensure the robustness of the solution, I test the app and in a differents ways and parameters.
