@@ -16,14 +16,13 @@ I look for support on StackOverflow (I am 41 years old, so is very common for me
 To ensure the robustness of the solution, I tested the app in different ways and parameters
 
 # Bonus Points
-About the bonus points i only develop the third point "Add a parameter to only crawl items in a specific condition (New, Pre-Owned, etc)."
-This additional functionality adds flexibility to the solution and aligns with the challenge's objectives, and in the source code of the app you can change the parameters and get differents results.
+About the bonus points I only develop the third point "Add a parameter to only crawl items in a specific condition (New, Pre-Owned, etc)." 
+This additional functionality adds flexibility to the solution and aligns with the challenge's objectives, and in the source code of the app you can change the parameters and get different results.
 
 Thank you once again for this enriching experience.!!
 
 Have a nice day.!
 Regards.
 Nazareno
-
 
 
