@@ -10,13 +10,14 @@ In this opportunity I found this challenge very interesting for me because i don
 In the same way, acttualy I am not coding daily so need to refresh my only neuron, jajaja.
 
 # Looking for Support
-I look for support on StackOverflow (I have 41 years old, so is very common to recurr to the originals fonts of knowledge, jaja and obviosly ChatGPT)
+I look for support on StackOverflow (I have 41 years old, so is very common to recurr to the originals fonts of knowledge, jaja and obviosly ChatGPT).
 
 # Tests
 To ensure the robustness of the solution, I test the app and in a differents ways and parameters.
 
 # Bonus Points
 About the bonus points i only develop the third point "Add a parameter to only crawl items in a specific condition (New, Pre-Owned, etc)."
+This additional functionality adds flexibility to the solution and aligns with the challenge's objectives, and in the source code of the app you can change the parameters and get differents results.
 
 Thank you once again for this enriching experience.!!
 
