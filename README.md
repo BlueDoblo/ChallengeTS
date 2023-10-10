@@ -13,7 +13,7 @@ In the same way, actually I am not coding daily so needed to refresh my only neu
 I look for support on StackOverflow (I am 41 years old, so is very common for me, go to the source of knowledge, jaja and obviosly ChatGPT).
 
 # Tests
-To ensure the robustness of the solution, I test the app and in a differents ways and parameters.
+To ensure the robustness of the solution, I tested the app in different ways and parameters
 
 # Bonus Points
 About the bonus points i only develop the third point "Add a parameter to only crawl items in a specific condition (New, Pre-Owned, etc)."
